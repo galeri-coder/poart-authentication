@@ -1,0 +1,37 @@
+{
+  "artwork_id": "ILHANART_2025_025",
+  "title": "Eser 025",
+  "artist": "Ali Naki İlhan",
+  "gallery": "İlhanArt Gallery",
+  "collection": "İlhanArt Collection 2025",
+  "date_authenticated": "2025-01-13",
+  "location": "Ortaköy, İstanbul",
+  "authentication": {
+    "protocol": "PoArt v1.0 (Proof of Art)",
+    "verify_url": "https://www.ilhanart.org/verify?id=ILHANART_2025_025",
+    "verification_rule": "365-day continuous cold wallet storage",
+    "philosophy": "Culture > Capital"
+  },
+  "hashes": {
+    "original": {
+      "sha512": "8fb9ed6108ec5b5aa37726795a1ffae545151fe285acd720361c67c9ea978620cd0f30275243eebb99bf910c06d6ef39f5e93a92d51a68f03a3c9d2238ffbbcb",
+      "algorithm": "SHA-512",
+      "file_size_bytes": 296200
+    },
+    "watermarked": {
+      "sha512": "04bd385ba4f1a2513befd0ae72966675b5f82b652221ea48741e7498a7d125f706f35915a6347cedd185dc2ef5f2806f30c481f9060675549bda887f279228de",
+      "algorithm": "SHA-512",
+      "file_size_bytes": 2939091
+    }
+  },
+  "files": {
+    "original": "ILHANART_2025_025_original.png",
+    "watermarked": "ILHANART_2025_025_watermarked.png"
+  },
+  "provenance": {
+    "first_authentication": "2025-01-13",
+    "authenticator": "PoArt System v1.0",
+    "gallery": "İlhanArt Gallery",
+    "artist_signature": "Ali Naki İlhan"
+  }
+}
