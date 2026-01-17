@@ -31,8 +31,6 @@ artists/
 │   ├── 01_originals/
 │   ├── 02_original_hashes/
 │   ├── 03_watermarked/
-│   ├── 04_watermarked_hashes/
-│   ├── 05_metadata/
 │   ├── MASTER_AUTHENTICATION_RECORD.csv
 │   └── README.md
 │
