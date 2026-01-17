@@ -26,8 +26,6 @@ ali-naki-ilhan/
 ├── 01_originals/              # 32 original artwork files
 ├── 02_original_hashes/        # SHA-512 hashes of originals
 ├── 03_watermarked/            # QR watermarked artworks
-├── 04_watermarked_hashes/     # SHA-512 hashes of watermarked
-├── 05_metadata/               # JSON metadata files
 ├── MASTER_AUTHENTICATION_RECORD.csv
 └── README.md                  # This file
 ```
