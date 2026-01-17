@@ -61,10 +61,7 @@ ilhanart-poart-authentication/
 ├── artists/                   # Artist-specific collections
 │   └── ali-naki-ilhan/       # Ali Naki İlhan's authenticated artworks
 │       ├── 01_originals/
-│       ├── 02_original_hashes/
 │       ├── 03_watermarked/
-│       ├── 04_watermarked_hashes/
-│       ├── 05_metadata/
 │       ├── MASTER_AUTHENTICATION_RECORD.csv
 │       └── README.md
 │
